@@ -29,6 +29,7 @@
 - [LittleBrother](https://github.com/AbirHasan2005/LittleBrother)
 - [FindingCpanel](https://github.com/palahsu/Finding-cPaneladminofWebsite)
 - [PowerLevel10K](https://github.com/AbirHasan2005/PowerLevel10K)
+- [Py-Snake-Game](https://github.com/AbirHasan2005/PySnakeGame)
 - [Your-Translate](https://github.com/palahsu/Your-Translate)
 - [Screen-Capture](https://github.com/palahsu/Screen-Capture)
 - [DigiRecogniton](https://github.com/palahsu/DigiRecognition)
