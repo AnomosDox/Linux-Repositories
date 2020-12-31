@@ -1,25 +1,41 @@
 # Tools-by-Linux-Repositories
-All Tools By Linux Repositories
+
+## All Tools By Linux Repositories
 
 ### 2020 All Tools by Linux-Repositories
+- [2048](https://github.com/AbirHasan2005/2048)
 - [MBomb](https://github.com/palahsu/MBomb)
+- [PyCal](https://github.com/AbirHasan2005/PyCal)
+- [Visify](https://github.com/AbirHasan2005/Visify)
+- [Win-Fi](https://github.com/AbirHasan2005/Win-Fi)
 - [Deskify](https://github.com/AbirHasan2005/Deskify)
 - [WhatsPy](https://github.com/palahsu/WhatsPy)
+- [Fsociety](https://github.com/AbirHasan2005/fsociety)
 - [ShortURL](https://github.com/palahsu/shortURL)
+- [UserRecon](https://github.com/AbirHasan2005/UserRecon)
+- [FlappyBird](https://github.com/AbirHasan2005/FlappyBird)
 - [TextSpeech](https://github.com/palahsu/textspeech)
+- [T-Rex_Hack](https://github.com/AbirHasan2005/T-Rex_Hack)
 - [ShellPhish](https://github.com/AbirHasan2005/ShellPhish)
+- [CoronaStats](https://github.com/AbirHasan2005/CoronaStats)
 - [DDoS Ripper](https://github.com/palahsu/DDoS-Ripper)
 - [Instagram DL](https://github.com/palahsu/instagram-dl)
+- [Mirror-Robot](https://github.com/AbirHasan2005/MIRROR-ROBOT)
 - [Guess-Number](https://github.com/palahsu/Guess-Number)
 - [EngineRipper](https://github.com/palahsu/EngineRipper)
+- [SpaceShooter](https://github.com/AbirHasan2005/spaceshooter)
 - [TypingSpeeds](https://github.com/palahsu/TypingSpeeds)
 - [ScraperImages](https://github.com/palahsu/ScraperImages)
 - [LittleBrother](https://github.com/AbirHasan2005/LittleBrother)
 - [FindingCpanel](https://github.com/palahsu/Finding-cPaneladminofWebsite)
+- [PowerLevel10K](https://github.com/AbirHasan2005/PowerLevel10K)
 - [Your-Translate](https://github.com/palahsu/Your-Translate)
 - [Screen-Capture](https://github.com/palahsu/Screen-Capture)
 - [DigiRecogniton](https://github.com/palahsu/DigiRecognition)
 - [TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
+- [YouTube_Views_Bot](https://github.com/AbirHasan2005/YouTube_Views_Bot)
+- [TG_UserBot_Plugins](https://github.com/AbirHasan2005/TG_UserBot_Plugins)
 - [Face-Recognition-Pro](https://github.com/palahsu/Face-Recognition-Pro)
 
-## By @palahsu & @abirhasan2005
+
+## By [palahsu](https://github.com/palahsu) & [abirhasan2005](https://github.com/AbirHasan2005)
